@@ -1,2 +1,1 @@
-# auto-test-course
-solved tasks for automatization testing course
+In this repository you can find solutions for tasks from this course: stepik.org/course/575/
